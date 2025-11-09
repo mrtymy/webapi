@@ -1,0 +1,7229 @@
+{
+  "games": [
+    {
+      "id": "007-legends",
+      "gameName": "007 Legends",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "007 Legends",
+        "exeName": "007Legends.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\Activision\\007 Legends"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "age-of-empires-iii",
+      "gameName": "Age of Empires III",
+      "year": 2005,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Age of Empires III",
+        "exeName": "AgeofEmpiresIII.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Age of Empires III\\Users"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "age-of-empires-iii-the-war-chiefs",
+      "gameName": "Age of Empires III The War Chiefs",
+      "year": 2006,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Age of Empires III The War Chiefs",
+        "exeName": "AgeofEmpiresIIITheWarChiefs.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Age of Empires III\\Users"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "age-of-mythology",
+      "gameName": "Age of Mythology",
+      "year": 2003,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Age of Mythology",
+        "exeName": "AgeofMythology.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Age of Mythology\\Users"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "age-of-mythology-titans",
+      "gameName": "Age of Mythology Titans",
+      "year": 2003,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Age of Mythology Titans",
+        "exeName": "AgeofMythologyTitans.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Age of Mythology\\Users"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "assassin-s-creed",
+      "gameName": "Assassin's Creed",
+      "year": 2007,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Assassin's Creed",
+        "exeName": "AssassinsCreed.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Roaming\\Ubisoft\\Assassin's Creed"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "assassin-s-creed-brotherhood",
+      "gameName": "Assassin's Creed Brotherhood ",
+      "year": 2010,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Assassin's Creed Brotherhood ",
+        "exeName": "AssassinsCreedBrotherhood.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games\\Assassin's Creed Brotherhood"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "assassin-s-creed-ii",
+      "gameName": "Assassin's Creed II",
+      "year": 2009,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Assassin's Creed II",
+        "exeName": "AssassinsCreedII.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\appdata\\Roaming\\Ubisoft\\Assassin's Creed 2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "assassin-s-creed-iii",
+      "gameName": "Assassin's Creed III",
+      "year": 2012,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Assassin's Creed III",
+        "exeName": "AssassinsCreedIII.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\Ubisoft Game Launcher"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "assassin-s-creed-revelations",
+      "gameName": "Assassin's Creed Revelations",
+      "year": 2011,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Assassin's Creed Revelations",
+        "exeName": "AssassinsCreedRevelations.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\Ubisoft Game Launcher\\savegame_storage"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "batman-arkham-city",
+      "gameName": "Batman Arkham City",
+      "year": 2011,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Batman Arkham City",
+        "exeName": "BatmanArkhamCity.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\WB Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "battlefield-2",
+      "gameName": "Battlefield 2",
+      "year": 2006,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Battlefield 2",
+        "exeName": "Battlefield2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\BFBC2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "battlefield-3",
+      "gameName": "Battlefield 3",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Battlefield 3",
+        "exeName": "Battlefield3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Battlefield 3"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "blur",
+      "gameName": "Blur",
+      "year": 2009,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Blur",
+        "exeName": "Blur.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\AppData\\Roaming\\bizarre creations"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "borderlands-2",
+      "gameName": "Borderlands 2",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Borderlands 2",
+        "exeName": "Borderlands2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\Borderlands 2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "bulletstorm",
+      "gameName": "Bulletstorm",
+      "year": 2010,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Bulletstorm",
+        "exeName": "Bulletstorm.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\BulletStorm"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "burnout-paradise",
+      "gameName": "Burnout Paradise",
+      "year": 2008,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Burnout Paradise",
+        "exeName": "BurnoutParadise.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\Criterion Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "bus-drivers",
+      "gameName": "Bus Drivers",
+      "year": 2007,
+      "genre": "Simülasyon",
+      "paths": {
+        "folderName": "Bus Drivers",
+        "exeName": "BusDrivers.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Bus Driver"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "cabelas-big-game-hunter",
+      "gameName": "Cabelas Big Game Hunter",
+      "year": 2009,
+      "genre": "Avcılık",
+      "paths": {
+        "folderName": "Cabelas Big Game Hunter",
+        "exeName": "CabelasBigGameHunter.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-duty-black-ops",
+      "gameName": "Call of Duty - Black Ops",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Duty - Black Ops",
+        "exeName": "CallofDuty-BlackOps.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Call of Duty - Black Ops\\players"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-duty-world-at-war",
+      "gameName": "Call of Duty - World at War",
+      "year": 2008,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Duty - World at War",
+        "exeName": "CallofDuty-WorldatWar.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\Activision"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-duty-2",
+      "gameName": "Call of Duty 2",
+      "year": 2006,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Duty 2",
+        "exeName": "CallofDuty2.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Call of Duty 2\\main\\players"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-duty-4-modern-warfare",
+      "gameName": "Call of Duty 4 - Modern Warfare",
+      "year": 2007,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Duty 4 - Modern Warfare",
+        "exeName": "CallofDuty4-ModernWarfare.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Call of Duty 4 - Modern Warfare\\players"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-duty-black-ops-ii",
+      "gameName": "Call of Duty Black Ops II",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Duty Black Ops II",
+        "exeName": "CallofDutyBlackOpsII.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Call of Duty Black Ops II\\players"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-duty-modern-warfare-2",
+      "gameName": "Call of Duty Modern Warfare 2",
+      "year": 2009,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Duty Modern Warfare 2",
+        "exeName": "CallofDutyModernWarfare2.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Call of Duty Modern Warfare 2\\players"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-duty-modern-warfare-3",
+      "gameName": "Call of Duty Modern Warfare 3",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Duty Modern Warfare 3",
+        "exeName": "CallofDutyModernWarfare3.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Call of Duty Modern Warfare 3\\players2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-juarez-bound-in-blood",
+      "gameName": "Call of Juarez - Bound in Blood",
+      "year": 2009,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Juarez - Bound in Blood",
+        "exeName": "CallofJuarez-BoundinBlood.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Call of Juarez - Bound in Blood\\CoJ2\\Out\\save"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-juarez-the-cartel",
+      "gameName": "Call of Juarez The Cartel",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Juarez The Cartel",
+        "exeName": "CallofJuarezTheCartel.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Call of Juarez The Cartel\\MD\\out"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "championship-manager-2010",
+      "gameName": "Championship Manager 2010",
+      "year": 2009,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "Championship Manager 2010",
+        "exeName": "ChampionshipManager2010.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Eidos"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "command-and-conquer-3",
+      "gameName": "Command and Conquer 3",
+      "year": 2007,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Command and Conquer 3",
+        "exeName": "CommandandConquer3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Command and Conquer 3"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "command-and-conquer-generals",
+      "gameName": "Command and Conquer Generals",
+      "year": 2003,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Command and Conquer Generals",
+        "exeName": "CommandandConquerGenerals.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "counter-strike-1-6",
+      "gameName": "Counter-Strike 1.6",
+      "year": 1999,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Counter-Strike 1.6",
+        "exeName": "Counter-Strike1.6.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "counter-strike-source",
+      "gameName": "Counter-Strike Source",
+      "year": 2004,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Counter-Strike Source",
+        "exeName": "Counter-StrikeSource.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "counter-strike-extreme",
+      "gameName": "Counter Strike Extreme",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Counter Strike Extreme",
+        "exeName": "CounterStrikeExtreme.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "crysis-2",
+      "gameName": "Crysis 2",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Crysis 2",
+        "exeName": "Crysis2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games\\Crysis2\\SaveGames"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "crysis-3",
+      "gameName": "Crysis 3",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Crysis 3",
+        "exeName": "Crysis3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games\\Crysis3"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "darksiders-2",
+      "gameName": "Darksiders 2",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Darksiders 2",
+        "exeName": "Darksiders2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "darksouls",
+      "gameName": "DarkSouls",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "DarkSouls",
+        "exeName": "DarkSouls.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\NBGI"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dead-island",
+      "gameName": "Dead Island",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Dead Island",
+        "exeName": "DeadIsland.exe",
+        "childFolder": null,
+        "saveFolder": "%allusersprofile%\\RELOADED\\VictorVal\\91310"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dead-rising-2-off-the-record",
+      "gameName": "Dead Rising 2 Off the Record",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Dead Rising 2 Off the Record",
+        "exeName": "DeadRising2OfftheRecord.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dead-space-2",
+      "gameName": "Dead Space 2",
+      "year": 2010,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Dead Space 2",
+        "exeName": "DeadSpace2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\EA Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dead-space-3",
+      "gameName": "Dead Space 3",
+      "year": 2008,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Dead Space 3",
+        "exeName": "DeadSpace3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\EA Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "deadlight",
+      "gameName": "Deadlight",
+      "year": 2012,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Deadlight",
+        "exeName": "Deadlight.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "deus-ex-human-revolution",
+      "gameName": "Deus Ex - Human Revolution",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Deus Ex - Human Revolution",
+        "exeName": "DeusEx-HumanRevolution.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "devil-may-cry-4",
+      "gameName": "Devil May Cry 4",
+      "year": 2007,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Devil May Cry 4",
+        "exeName": "DevilMayCry4.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\CAPCOM"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dirt-3",
+      "gameName": "Dirt 3",
+      "year": 2011,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Dirt 3",
+        "exeName": "Dirt3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dirt-showdown",
+      "gameName": "Dirt Showdown",
+      "year": 2012,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Dirt Showdown",
+        "exeName": "DirtShowdown.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\FLT\\Steam\\201700"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dishonored",
+      "gameName": "Dishonored",
+      "year": 2012,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Dishonored",
+        "exeName": "Dishonored.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\RELOADED\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dmc-devil-may-cry",
+      "gameName": "DMC Devil May Cry",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "DMC Devil May Cry",
+        "exeName": "DMCDevilMayCry.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\Steam\\RLD!"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "doom-3",
+      "gameName": "Doom 3",
+      "year": 2005,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Doom 3",
+        "exeName": "Doom3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "driver-san-francisco",
+      "gameName": "Driver San Francisco",
+      "year": 2011,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Driver San Francisco",
+        "exeName": "DriverSanFrancisco.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Ubisoft"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "euro-truck-simulator",
+      "gameName": "Euro Truck Simulator",
+      "year": 2012,
+      "genre": "Simülasyon",
+      "paths": {
+        "folderName": "Euro Truck Simulator",
+        "exeName": "EuroTruckSimulator.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Euro Truck Simulator"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "euro-truck-simulator-2",
+      "gameName": "Euro Truck Simulator 2",
+      "year": 2012,
+      "genre": "Simülasyon",
+      "paths": {
+        "folderName": "Euro Truck Simulator 2",
+        "exeName": "EuroTruckSimulator2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Euro Truck Simulator 2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "f-e-a-r-3",
+      "gameName": "F.E.A.R. 3",
+      "year": 2010,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "F.E.A.R. 3",
+        "exeName": "F.E.A.R.3.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "fallout-new-vegas-ultimate-edition",
+      "gameName": "Fallout New Vegas Ultimate Edition",
+      "year": 2010,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Fallout New Vegas Ultimate Edition",
+        "exeName": "FalloutNewVegasUltimateEdition.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "farcry-3",
+      "gameName": "FarCry 3",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "FarCry 3",
+        "exeName": "FarCry3.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\Orbit\\46"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "fifa-12",
+      "gameName": "FIFA 12",
+      "year": 2011,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "FIFA 12",
+        "exeName": "FIFA12.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\documents\\FIFA 12"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "fifa-13",
+      "gameName": "FIFA 13",
+      "year": 2012,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "FIFA 13",
+        "exeName": "FIFA13.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\documents\\FIFA 13"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "flatout-2",
+      "gameName": "FlatOut 2",
+      "year": 2006,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "FlatOut 2",
+        "exeName": "FlatOut2.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\FlatOut 2\\Savegame"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "flatout-3",
+      "gameName": "FlatOut 3",
+      "year": 2011,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "FlatOut 3",
+        "exeName": "FlatOut3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "flatout-ultimate-carnage",
+      "gameName": "FlatOut Ultimate Carnage",
+      "year": 2008,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "FlatOut Ultimate Carnage",
+        "exeName": "FlatOutUltimateCarnage.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\FlatOut Ultimate Carnage"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "gas-guzzlers-combat-carnage",
+      "gameName": "Gas Guzzlers Combat Carnage",
+      "year": 2012,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Gas Guzzlers Combat Carnage",
+        "exeName": "GasGuzzlersCombatCarnage.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Gamepires"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "gears-of-war",
+      "gameName": "Gears of War",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Gears of War",
+        "exeName": "GearsofWar.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Gears of War\\WarGame\\Checkpoints"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "ghost-recon-advanced-warfighter-2",
+      "gameName": "Ghost Recon Advanced Warfighter 2",
+      "year": 2007,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Ghost Recon Advanced Warfighter 2",
+        "exeName": "GhostReconAdvancedWarfighter2.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\graw2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "gta-ultimate-city",
+      "gameName": "GTA Ultimate City",
+      "year": 2006,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "GTA Ultimate City",
+        "exeName": "GTAUltimateCity.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\GTA Vice City User Files"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "gta-san-andreas",
+      "gameName": "GTA San Andreas",
+      "year": 2004,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "GTA San Andreas",
+        "exeName": "GTASanAndreas.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\GTA San Andreas User Files"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "gta-vice-city",
+      "gameName": "GTA Vice City",
+      "year": 2004,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "GTA Vice City",
+        "exeName": "GTAViceCity.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\GTA Vice City User Files"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "gta-iv",
+      "gameName": "GTA IV",
+      "year": 2008,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "GTA IV",
+        "exeName": "GTAIV.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\Rockstar Games\\GTA IV"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "gta-4-episodes-from-liberty-city",
+      "gameName": "Gta 4 Episodes from Liberty City",
+      "year": 2008,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Gta 4 Episodes from Liberty City",
+        "exeName": "Gta4EpisodesfromLibertyCity.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Rockstar Games\\GTA IV"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "counter-strike-1-5",
+      "gameName": "Counter-Strike 1.5",
+      "year": 1999,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Counter-Strike 1.5",
+        "exeName": "Counter-Strike1.5.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "half-life",
+      "gameName": "Half-Life",
+      "year": 1998,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Half-Life",
+        "exeName": "Half-Life.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Half-Life"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "half-life-2",
+      "gameName": "Half-Life 2",
+      "year": 2004,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Half-Life 2",
+        "exeName": "Half-Life2.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Half-Life 2\\hl2\\SAVE"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "half-life-2-episode-one",
+      "gameName": "Half-Life 2 Episode One",
+      "year": 2006,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Half-Life 2 Episode One",
+        "exeName": "Half-Life2EpisodeOne.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Half-Life 2 Episode One\\episodic\\SAVE"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "half-life-2-episode-two",
+      "gameName": "Half-Life 2 Episode Two",
+      "year": 2007,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Half-Life 2 Episode Two",
+        "exeName": "Half-Life2EpisodeTwo.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Half-Life 2 Episode Two\\ep2\\SAVE"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "hard-reset",
+      "gameName": "Hard Reset",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Hard Reset",
+        "exeName": "HardReset.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Hard Reset"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "hitman-absolution",
+      "gameName": "Hitman Absolution",
+      "year": 2012,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Hitman Absolution",
+        "exeName": "HitmanAbsolution.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\SKIDROW"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "homefront",
+      "gameName": "Homefront",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Homefront",
+        "exeName": "Homefront.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\3DMGAME\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "insane-2",
+      "gameName": "Insane 2",
+      "year": 2012,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Insane 2",
+        "exeName": "Insane2.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\SKIDROW\\35320"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "inversion",
+      "gameName": "Inversion",
+      "year": 2012,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Inversion",
+        "exeName": "Inversion.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Inversion"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "kingdoms-of-amalur-reckoning",
+      "gameName": "Kingdoms of Amalur Reckoning",
+      "year": 2012,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Kingdoms of Amalur Reckoning",
+        "exeName": "KingdomsofAmalurReckoning.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\SKIDROW\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "left-4-dead",
+      "gameName": "Left 4 Dead",
+      "year": 2007,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Left 4 Dead",
+        "exeName": "Left4Dead.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Left 4 Dead\\left4dead\\save"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "left-4-dead-2",
+      "gameName": "Left 4 Dead 2",
+      "year": 2009,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Left 4 Dead 2",
+        "exeName": "Left4Dead2.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Left 4 Dead 2\\left4dead2\\save"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "mad-riders",
+      "gameName": "Mad Riders",
+      "year": 2012,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Mad Riders",
+        "exeName": "MadRiders.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "mafia-ii",
+      "gameName": "Mafia II",
+      "year": 2010,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Mafia II",
+        "exeName": "MafiaII.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\2K Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "manhunt-2",
+      "gameName": "Manhunt 2",
+      "year": 2008,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Manhunt 2",
+        "exeName": "Manhunt2.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\Rockstar Games\\Manhunt 2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "mass-effect-2",
+      "gameName": "Mass Effect 2",
+      "year": 2010,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Mass Effect 2",
+        "exeName": "MassEffect2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\BioWare"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "mass-effect-3",
+      "gameName": "Mass Effect 3",
+      "year": 2011,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Mass Effect 3",
+        "exeName": "MassEffect3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\BioWare"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "max-payne-3",
+      "gameName": "Max Payne 3",
+      "year": 2012,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Max Payne 3",
+        "exeName": "MaxPayne3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Rockstar Games\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "medal-of-honor",
+      "gameName": "Medal of Honor",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Medal of Honor",
+        "exeName": "MedalofHonor.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\EA Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "medal-of-honor-warfighter",
+      "gameName": "Medal of Honor Warfighter",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Medal of Honor Warfighter",
+        "exeName": "MedalofHonorWarfighter.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\MOHW"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "men-of-war-vietnam",
+      "gameName": "Men of War Vietnam",
+      "year": 2010,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Men of War Vietnam",
+        "exeName": "MenofWarVietnam.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\mow vietnam"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "motocross-world-championship",
+      "gameName": "Motocross World Championship",
+      "year": 2012,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Motocross World Championship",
+        "exeName": "MotocrossWorldChampionship.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Milestone\\MUD"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "motogp-08",
+      "gameName": "MotoGP 08",
+      "year": 2013,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "MotoGP 08",
+        "exeName": "MotoGP08.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Capcom\\MotoGP08"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "mount-and-blade-warband",
+      "gameName": "Mount and Blade Warband",
+      "year": 2010,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Mount and Blade Warband",
+        "exeName": "MountandBladeWarband.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "nba-2k12",
+      "gameName": "NBA 2K12",
+      "year": 2008,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "NBA 2K12",
+        "exeName": "NBA2K12.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\2K Sports\\NBA 2K12"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "nba-2k13",
+      "gameName": "NBA 2K13",
+      "year": 2012,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "NBA 2K13",
+        "exeName": "NBA2K13.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\2K Sports\\NBA 2K13"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "need-for-speed-hot-pursuit",
+      "gameName": "Need for Speed Hot Pursuit",
+      "year": 2010,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Need for Speed Hot Pursuit",
+        "exeName": "NeedforSpeedHotPursuit.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Criterion Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "need-for-speed-most-wanted-2005",
+      "gameName": "Need for Speed Most Wanted 2005",
+      "year": 2005,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Need for Speed Most Wanted 2005",
+        "exeName": "NeedforSpeedMostWanted2005.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "need-for-speed-shift",
+      "gameName": "Need For Speed SHIFT",
+      "year": 2009,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Need For Speed SHIFT",
+        "exeName": "NeedForSpeedSHIFT.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "need-for-speed-shift-2",
+      "gameName": "Need For Speed SHIFT 2",
+      "year": 2011,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Need For Speed SHIFT 2",
+        "exeName": "NeedForSpeedSHIFT2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\SHIFT 2 UNLEASHED"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "need-for-speed-the-run",
+      "gameName": "Need for Speed The Run",
+      "year": 2011,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Need for Speed The Run",
+        "exeName": "NeedforSpeedTheRun.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\NFSTR"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "need-for-speed-undercover",
+      "gameName": "Need for Speed Undercover",
+      "year": 2008,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Need for Speed Undercover",
+        "exeName": "NeedforSpeedUndercover.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\NFS Undercover"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "need-for-speed-underground-2",
+      "gameName": "Need for Speed Underground 2",
+      "year": 2004,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Need for Speed Underground 2",
+        "exeName": "NeedforSpeedUnderground2.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\NFS Underground 2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "need-for-speed-most-wanted-2013",
+      "gameName": "Need for Speed Most Wanted 2013",
+      "year": 2012,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Need for Speed Most Wanted 2013",
+        "exeName": "NeedforSpeedMostWanted2013.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Criterion Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "neighbours-from-hell",
+      "gameName": "Neighbours From Hell",
+      "year": 2003,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Neighbours From Hell",
+        "exeName": "NeighboursFromHell.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\JoWooD"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "operation-flashpoint-2-dragon-rising",
+      "gameName": "Operation Flashpoint 2 Dragon Rising",
+      "year": 2009,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Operation Flashpoint 2 Dragon Rising",
+        "exeName": "OperationFlashpoint2DragonRising.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\OFDR"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "operation-flashpoint-red-river",
+      "gameName": "Operation Flashpoint Red River",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Operation Flashpoint Red River",
+        "exeName": "OperationFlashpointRedRiver.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\OFRR"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "orcs-must-die",
+      "gameName": "Orcs Must Die",
+      "year": 2012,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Orcs Must Die",
+        "exeName": "OrcsMustDie.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Orcs Must Die\\Build\\release\\Ucgen_swarm"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "orcs-must-die-2",
+      "gameName": "Orcs Must Die 2",
+      "year": 2012,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Orcs Must Die 2",
+        "exeName": "OrcsMustDie2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\AppData\\Local\\FLT\\Steam\\201790\\remote"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "payday-the-heist",
+      "gameName": "Payday The Heist",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Payday The Heist",
+        "exeName": "PaydayTheHeist.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\PAYDAY"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "pes-13",
+      "gameName": "PES 13",
+      "year": 2012,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "PES 13",
+        "exeName": "PES13.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\KONAMI\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "pes2012",
+      "gameName": "Pes2012",
+      "year": 2011,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "Pes2012",
+        "exeName": "Pes2012.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\KONAMI\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "pes2011",
+      "gameName": "PES2011",
+      "year": 2010,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "PES2011",
+        "exeName": "PES2011.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\KONAMI\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "pes2010",
+      "gameName": "PES2010",
+      "year": 2009,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "PES2010",
+        "exeName": "PES2010.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\KONAMI\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "portal",
+      "gameName": "Portal",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Portal",
+        "exeName": "Portal.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Portal\\Portal\\SAVE"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "portal-2",
+      "gameName": "Portal 2",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Portal 2",
+        "exeName": "Portal2.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Portal2\\Portal2\\SAVE"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "prince-of-persia-the-forgotten-sands",
+      "gameName": "Prince of Persia The Forgotten Sands",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Prince of Persia The Forgotten Sands",
+        "exeName": "PrinceofPersiaTheForgottenSands.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Portal2\\SAVE"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "prototype-2",
+      "gameName": "PROTOTYPE 2",
+      "year": 2012,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "PROTOTYPE 2",
+        "exeName": "PROTOTYPE2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Activision"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "quake-iii-arena",
+      "gameName": "Quake III Arena",
+      "year": 2000,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Quake III Arena",
+        "exeName": "QuakeIIIArena.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Quake III Arena\\baseq3"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "rage",
+      "gameName": "Rage",
+      "year": 2010,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Rage",
+        "exeName": "Rage.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\id Software"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "red-alert-2",
+      "gameName": "Red Alert 2",
+      "year": 2000,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Red Alert 2",
+        "exeName": "RedAlert2.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Red Alert 2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "red-faction-armageddon",
+      "gameName": "Red Faction Armageddon",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Red Faction Armageddon",
+        "exeName": "RedFactionArmageddon.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\ali123"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "resident-evil-6",
+      "gameName": "Resident Evil 6",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Resident Evil 6",
+        "exeName": "ResidentEvil6.exe",
+        "childFolder": null,
+        "saveFolder": "%allusersprofile%\\RELOADED\\RLD!\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "resident-evil-operation-raccon-city",
+      "gameName": "Resident Evil Operation Raccon City",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Resident Evil Operation Raccon City",
+        "exeName": "ResidentEvilOperationRacconCity.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\CAPCOM"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "ridge-racer-unbounded",
+      "gameName": "Ridge Racer Unbounded",
+      "year": 2011,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Ridge Racer Unbounded",
+        "exeName": "RidgeRacerUnbounded.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\SKIDROW\\202310"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "rise-of-nations",
+      "gameName": "Rise Of Nations",
+      "year": 2003,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Rise Of Nations",
+        "exeName": "RiseOfNations.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "rise-of-the-argonauts",
+      "gameName": "Rise of the Argonauts",
+      "year": 2008,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Rise of the Argonauts",
+        "exeName": "RiseoftheArgonauts.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "risen-2-dark-waters",
+      "gameName": "Risen 2 Dark Waters",
+      "year": 2012,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Risen 2 Dark Waters",
+        "exeName": "Risen2DarkWaters.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "saints-row-the-third",
+      "gameName": "Saints Row The Third",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Saints Row The Third",
+        "exeName": "SaintsRowTheThird.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\SKIDROW\\55230"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "sbk-generations",
+      "gameName": "SBK Generations",
+      "year": 2012,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "SBK Generations",
+        "exeName": "SBKGenerations.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Milestone\\SBKGENERATIONS"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "serious-sam-2",
+      "gameName": "Serious Sam 2",
+      "year": 2005,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Serious Sam 2",
+        "exeName": "SeriousSam2.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Serious Sam 2\\Content\\SeriousSam2\\PlayerProfiles"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "shank-2",
+      "gameName": "Shank 2",
+      "year": 2012,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Shank 2",
+        "exeName": "Shank2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "sleeping-dogs",
+      "gameName": "Sleeping Dogs",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Sleeping Dogs",
+        "exeName": "SleepingDogs.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Sleeping Dogs\\Data"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "sniper-elite",
+      "gameName": "Sniper Elite",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Sniper Elite",
+        "exeName": "SniperElite.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Sniper Elite\\Prof"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "sniper-elite-v2",
+      "gameName": "Sniper Elite V2",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Sniper Elite V2",
+        "exeName": "SniperEliteV2.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\SniperV2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "sniper-ghost-warrior-2",
+      "gameName": "Sniper Ghost Warrior 2",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Sniper Ghost Warrior 2",
+        "exeName": "SniperGhostWarrior2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games\\SniperGhostWarrior2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "spec-ops-the-line",
+      "gameName": "Spec Ops The Line",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Spec Ops The Line",
+        "exeName": "SpecOpsTheLine.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "spore",
+      "gameName": "SPORE",
+      "year": 2008,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "SPORE",
+        "exeName": "SPORE.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Spore"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "stalker-call-of-pripyat",
+      "gameName": "STALKER Call Of Pripyat",
+      "year": 2007,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "STALKER Call Of Pripyat",
+        "exeName": "STALKERCallOfPripyat.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "stalker-clear-sky",
+      "gameName": "STALKER Clear Sky",
+      "year": 2008,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "STALKER Clear Sky",
+        "exeName": "STALKERClearSky.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\stalker-stcs"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "stalker-shadow-of-chernobyl",
+      "gameName": "STALKER Shadow Of Chernobyl",
+      "year": 2007,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "STALKER Shadow Of Chernobyl",
+        "exeName": "STALKERShadowOfChernobyl.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\stalker-shoc"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "star-trek-2013",
+      "gameName": "Star Trek 2013",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Star Trek 2013",
+        "exeName": "StarTrek2013.exe",
+        "childFolder": null,
+        "saveFolder": "%APPDATA%\\StarTrekPC"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "street-fighter-iv",
+      "gameName": "STREET FIGHTER IV",
+      "year": 2008,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "STREET FIGHTER IV",
+        "exeName": "STREETFIGHTERIV.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\CAPCOM\\STREETFIGHTERIV"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "street-fighter-x-tekken",
+      "gameName": "Street Fighter X Tekken",
+      "year": 2012,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Street Fighter X Tekken",
+        "exeName": "StreetFighterXTekken.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\CAPCOM\\SFTK\\savedata"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "test-drive-unlimited",
+      "gameName": "Test Drive Unlimited",
+      "year": 2010,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Test Drive Unlimited",
+        "exeName": "TestDriveUnlimited.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "test-drive-unlimited-2",
+      "gameName": "Test Drive Unlimited 2",
+      "year": 2013,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Test Drive Unlimited 2",
+        "exeName": "TestDriveUnlimited2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Eden Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-amazing-spider-man",
+      "gameName": "The Amazing Spider-Man",
+      "year": 2012,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "The Amazing Spider-Man",
+        "exeName": "TheAmazingSpider-Man.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Activision\\ASM"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-battle-for-middle-earth-ii",
+      "gameName": "The Battle for Middle Earth II",
+      "year": 2006,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "The Battle for Middle Earth II",
+        "exeName": "TheBattleforMiddleEarthII.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\My Battle for Middle-earth(tm) II Files"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-cursed-crusade",
+      "gameName": "The Cursed Crusade",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "The Cursed Crusade",
+        "exeName": "TheCursedCrusade.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-elder-scrolls-v-skyrim",
+      "gameName": "The Elder Scrolls V Skyrim",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "The Elder Scrolls V Skyrim",
+        "exeName": "TheElderScrollsVSkyrim.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "red-alert-3",
+      "gameName": "Red Alert 3",
+      "year": 2008,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Red Alert 3",
+        "exeName": "RedAlert3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games\\Red Alert 3"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-lord-of-the-rings-conquest",
+      "gameName": "The Lord of the Rings - Conquest",
+      "year": 2009,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "The Lord of the Rings - Conquest",
+        "exeName": "TheLordoftheRings-Conquest.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\The Lord of the Rings - Conquest"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-lord-of-the-rings-war-in-the-north",
+      "gameName": "The Lord of the Rings - War in the North",
+      "year": 2011,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "The Lord of the Rings - War in the North",
+        "exeName": "TheLordoftheRings-WarintheNorth.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\WB Games\\War in the North"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-settlers-rise-of-an-empire",
+      "gameName": "THE SETTLERS - Rise of an Empire",
+      "year": 2008,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "THE SETTLERS - Rise of an Empire",
+        "exeName": "THESETTLERS-RiseofanEmpire.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-sims-3",
+      "gameName": "The Sims 3",
+      "year": 2009,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "The Sims 3",
+        "exeName": "TheSims3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Electronic Arts"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "tiny-bang-story",
+      "gameName": "Tiny Bang Story",
+      "year": 2011,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Tiny Bang Story",
+        "exeName": "TinyBangStory.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Colibri Games\\The Tiny Bang Story"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "tom-clancy-s-endwar",
+      "gameName": "Tom Clancy's EndWar",
+      "year": 2007,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Tom Clancy's EndWar",
+        "exeName": "TomClancysEndWar.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "tom-clancy-s-ghost-recon-future-soldier",
+      "gameName": "Tom Clancy's Ghost Recon Future Soldier",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Tom Clancy's Ghost Recon Future Soldier",
+        "exeName": "TomClancysGhostReconFutureSoldier.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Ubisoft"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "tom-clancy-s-rainbow-six-lockdown",
+      "gameName": "Tom Clancy's Rainbow Six Lockdown",
+      "year": 2005,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Tom Clancy's Rainbow Six Lockdown",
+        "exeName": "TomClancysRainbowSixLockdown.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Tom Clancy's Rainbow Six Lockdown\\data\\save"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "tom-clancy-s-rainbow-six-vegas-2",
+      "gameName": "Tom Clancy's Rainbow Six Vegas 2",
+      "year": 2008,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Tom Clancy's Rainbow Six Vegas 2",
+        "exeName": "TomClancysRainbowSixVegas2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\Ubisoft\\R6Vegas2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "tom-clancy-s-splinter-cell-conviction",
+      "gameName": "Tom Clancy's Splinter Cell Conviction",
+      "year": 2010,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Tom Clancy's Splinter Cell Conviction",
+        "exeName": "TomClancysSplinterCellConviction.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\storage\\SKIDROW\\2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "tomb-raider",
+      "gameName": "Tomb Raider",
+      "year": 2013,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Tomb Raider",
+        "exeName": "TombRaider.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\AppData\\Local\\Square Enix"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "tomb-raider-underworld",
+      "gameName": "Tomb Raider - Underworld",
+      "year": 2008,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Tomb Raider - Underworld",
+        "exeName": "TombRaider-Underworld.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Eidos"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "tony-hawks-pro-skater-hd",
+      "gameName": "Tony Hawks Pro Skater HD",
+      "year": 2012,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Tony Hawks Pro Skater HD",
+        "exeName": "TonyHawksProSkaterHD.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "torchlight-2",
+      "gameName": "Torchlight 2",
+      "year": 2012,
+      "genre": "Taktik",
+      "paths": {
+        "folderName": "Torchlight 2",
+        "exeName": "Torchlight2.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\Documents\\My Games\\Runic Games\\Torchlight 2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "track-mania-nations-forever",
+      "gameName": "Track Mania Nations Forever",
+      "year": 2008,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Track Mania Nations Forever",
+        "exeName": "TrackManiaNationsForever.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "transformers-fall-of-cybertron",
+      "gameName": "Transformers Fall of Cybertron",
+      "year": 2012,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Transformers Fall of Cybertron",
+        "exeName": "TransformersFallofCybertron.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\Transformers"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "transformers-the-game",
+      "gameName": "Transformers The Game",
+      "year": 2007,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Transformers The Game",
+        "exeName": "TransformersTheGame.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\ACTIVISION\\Transformers"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "trine",
+      "gameName": "Trine",
+      "year": 2011,
+      "genre": "Taktik",
+      "paths": {
+        "folderName": "Trine",
+        "exeName": "Trine.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini2%\\Trine\\profiles"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "trine-2",
+      "gameName": "Trine 2",
+      "year": 2012,
+      "genre": "Taktik",
+      "paths": {
+        "folderName": "Trine 2",
+        "exeName": "Trine2.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Trine2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "wheelman",
+      "gameName": "Wheelman",
+      "year": 2009,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Wheelman",
+        "exeName": "Wheelman.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\PC\\WheelmanGame"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "world-rally-championship-2",
+      "gameName": "World Rally Championship 2",
+      "year": 2011,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "World Rally Championship 2",
+        "exeName": "WorldRallyChampionship2.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\BlackBean\\WRC2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "worms-reloaded",
+      "gameName": "Worms Reloaded",
+      "year": 2010,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Worms Reloaded",
+        "exeName": "WormsReloaded.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini2%\\Worms Reloaded"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "x-men-origins-wolverine",
+      "gameName": "X-Men Origins - Wolverine",
+      "year": 2009,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "X-Men Origins - Wolverine",
+        "exeName": "X-MenOrigins-Wolverine.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Wolverine\\WGame\\SaveData"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "f1-2012",
+      "gameName": "F1 2012",
+      "year": 2012,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "F1 2012",
+        "exeName": "F12012.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "brink",
+      "gameName": "Brink",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Brink",
+        "exeName": "Brink.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\AppData\\Local\\SKIDROW\\22350"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dead-island-riptide",
+      "gameName": "Dead Island Riptide",
+      "year": 2012,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Dead Island Riptide",
+        "exeName": "DeadIslandRiptide.exe",
+        "childFolder": null,
+        "saveFolder": "%allusersprofile%\\RELOADED\\REVOLT\\216250\\storage\\out"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "far-cry",
+      "gameName": "Far Cry",
+      "year": 2004,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Far Cry",
+        "exeName": "FarCry.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Far Cry\\Profiles\\player\\default\\savegames\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "far-cry-2",
+      "gameName": "Far Cry 2",
+      "year": 2008,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Far Cry 2",
+        "exeName": "FarCry2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\Far Cry 2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "crysis",
+      "gameName": "Crysis",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Crysis",
+        "exeName": "Crysis.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\Crysis\\SaveGames"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "sniper-ghost-warrior",
+      "gameName": "Sniper Ghost Warrior",
+      "year": 2010,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Sniper Ghost Warrior",
+        "exeName": "SniperGhostWarrior.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini2%\\Sniper Ghost Warrior\\game\\out\\save"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "scania-truck-driving-simulator",
+      "gameName": "SCANIA Truck Driving Simulator",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "SCANIA Truck Driving Simulator",
+        "exeName": "SCANIATruckDrivingSimulator.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "wolfenstein-the-new-order",
+      "gameName": "Wolfenstein The New Order",
+      "year": 2014,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Wolfenstein The New Order",
+        "exeName": "WolfensteinTheNewOrder.exe",
+        "childFolder": null,
+        "saveFolder": "%programdata%\\Steam\\UCGENOYUNARSIVI\\201810"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "karahan",
+      "gameName": "KaraHan",
+      "year": 2004,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "KaraHan",
+        "exeName": "KaraHan.exe",
+        "childFolder": null,
+        "saveFolder": "http://account.mayngames.com/account/signup"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "knight-online",
+      "gameName": "Knight Online",
+      "year": 2004,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "Knight Online",
+        "exeName": "KnightOnline.exe",
+        "childFolder": null,
+        "saveFolder": "http://portal.nttgame.com/Signin/Signins"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "league-of-legends",
+      "gameName": "League of Legends",
+      "year": 2009,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "League of Legends",
+        "exeName": "LeagueofLegends.exe",
+        "childFolder": null,
+        "saveFolder": "https://signup.leagueoflegends.com/tr/signup/index"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "lilako",
+      "gameName": "LiLaKO",
+      "year": 2012,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "LiLaKO",
+        "exeName": "LiLaKO.exe",
+        "childFolder": null,
+        "saveFolder": "http://www.lilako.net/kopanel/register"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "metin2",
+      "gameName": "Metin2",
+      "year": 2004,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "Metin2",
+        "exeName": "Metin2.exe",
+        "childFolder": null,
+        "saveFolder": "http://tr.metin2.gameforge.com/user/register"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "need-for-speed-world",
+      "gameName": "Need for Speed World",
+      "year": 2010,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "Need for Speed World",
+        "exeName": "NeedforSpeedWorld.exe",
+        "childFolder": null,
+        "saveFolder": "https://world.needforspeed.com/register"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "point-blank",
+      "gameName": "Point Blank",
+      "year": 2008,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "Point Blank",
+        "exeName": "PointBlank.exe",
+        "childFolder": null,
+        "saveFolder": "http://pb.nfinitygames.com/member/joinInsProcess.do"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "wolfteamts",
+      "gameName": "WolfTeamTS",
+      "year": 2009,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "WolfTeamTS",
+        "exeName": "WolfTeamTS.exe",
+        "childFolder": null,
+        "saveFolder": "http://www.joygame.com/land/wolfteam/"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "bionic-commando",
+      "gameName": "Bionic Commando",
+      "year": 2009,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Bionic Commando",
+        "exeName": "BionicCommando.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\appdata\\Roaming\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "black-mesa-source",
+      "gameName": "Black Mesa Source",
+      "year": 2009,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Black Mesa Source",
+        "exeName": "BlackMesaSource.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Black Mesa Source\\BMS\\SAVE"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "prototype",
+      "gameName": "Prototype",
+      "year": 2009,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Prototype",
+        "exeName": "Prototype.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-witcher-2-enhanced-edition",
+      "gameName": "The Witcher 2 Enhanced Edition",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "The Witcher 2 Enhanced Edition",
+        "exeName": "TheWitcher2EnhancedEdition.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "minecraft",
+      "gameName": "MINECRAFT",
+      "year": 2009,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "MINECRAFT",
+        "exeName": "MINECRAFT.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\appdata\\Roaming\\.minecraft\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "quake-iii-team-arena",
+      "gameName": "Quake III Team Arena",
+      "year": 1999,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Quake III Team Arena",
+        "exeName": "QuakeIIITeamArena.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Quake III Arena\\missionpack\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "port-royale-3",
+      "gameName": "Port Royale 3",
+      "year": 2004,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Port Royale 3",
+        "exeName": "PortRoyale3.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Kalypso Media\\Port Royale 3"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "mirror-s-edge",
+      "gameName": "Mirror's Edge",
+      "year": 2008,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Mirror's Edge",
+        "exeName": "MirrorsEdge.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\EA Games\\Mirror's Edge\\TdGame\\Savefiles"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "tom-clancy-s-h-a-w-x",
+      "gameName": "Tom Clancy's H.A.W.X",
+      "year": 2009,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Tom Clancy's H.A.W.X",
+        "exeName": "TomClancysH.A.W.X.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games\\Tom Clancy's H.A.W.X"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "fallout-3",
+      "gameName": "Fallout 3",
+      "year": 2008,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Fallout 3",
+        "exeName": "Fallout3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "fable-iii",
+      "gameName": "Fable.III",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Fable.III",
+        "exeName": "Fable.III.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games\\lionhead studios\\fable 3"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "duke-nukem-forever",
+      "gameName": "Duke Nukem Forever",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Duke Nukem Forever",
+        "exeName": "DukeNukemForever.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "cars-2",
+      "gameName": "Cars 2",
+      "year": 2011,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Cars 2",
+        "exeName": "Cars2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "bioshock-2",
+      "gameName": "BioShock 2",
+      "year": 2007,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "BioShock 2",
+        "exeName": "BioShock2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "wwe-raw-ultimate-impact",
+      "gameName": "WWE RAW - Ultimate Impact",
+      "year": 2009,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "WWE RAW - Ultimate Impact",
+        "exeName": "WWERAW-UltimateImpact.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "warcraft-iii-wepla",
+      "gameName": "Warcraft III WEPLA",
+      "year": 2012,
+      "genre": "Taktik",
+      "paths": {
+        "folderName": "Warcraft III WEPLA",
+        "exeName": "WarcraftIIIWEPLA.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "warcraft-iii-wepla-frozen-throne",
+      "gameName": "Warcraft III WEPLA Frozen Throne",
+      "year": 2011,
+      "genre": "Taktik",
+      "paths": {
+        "folderName": "Warcraft III WEPLA Frozen Throne",
+        "exeName": "WarcraftIIIWEPLAFrozenThrone.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "tomb-raider-anniversary",
+      "gameName": "Tomb Raider - Anniversary",
+      "year": 2007,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Tomb Raider - Anniversary",
+        "exeName": "TombRaider-Anniversary.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Eidos\\Tomb Raider - Anniversary\\Default Profile"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-settlers-7-paths-to-a-kingdom",
+      "gameName": "The Settlers 7 - Paths to a Kingdom",
+      "year": 2010,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "The Settlers 7 - Paths to a Kingdom",
+        "exeName": "TheSettlers7-PathstoaKingdom.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "split-second",
+      "gameName": "Split Second",
+      "year": 2010,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Split Second",
+        "exeName": "SplitSecond.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Disney Interactive Studios\\Split Second"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "splinter-cell-chaos-theory",
+      "gameName": "Splinter Cell - Chaos Theory",
+      "year": 2005,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Splinter Cell - Chaos Theory",
+        "exeName": "SplinterCell-ChaosTheory.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\Ubisoft\\Tom Clancy's Splinter Cell Chaos Theory"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "spider-man-web-of-shadows",
+      "gameName": "Spider-Man - Web of Shadows",
+      "year": 2008,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Spider-Man - Web of Shadows",
+        "exeName": "Spider-Man-WebofShadows.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Activision"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "sid-meier-s-civilization-v",
+      "gameName": "Sid Meier's Civilization V",
+      "year": 2010,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Sid Meier's Civilization V",
+        "exeName": "SidMeiersCivilizationV.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\My Games\\Sid Meier's Civilization 5\\Saves"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "saints-row-2",
+      "gameName": "Saints Row 2",
+      "year": 2008,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Saints Row 2",
+        "exeName": "SaintsRow2.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\THQ\\Saints Row 2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "rise-of-nations-thrones",
+      "gameName": "Rise Of Nations Thrones",
+      "year": 2004,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Rise Of Nations Thrones",
+        "exeName": "RiseOfNationsThrones.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "rise-of-nations-patriots",
+      "gameName": "Rise Of Nations Patriots",
+      "year": 2004,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Rise Of Nations Patriots",
+        "exeName": "RiseOfNationsPatriots.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "red-orchestra-2",
+      "gameName": "Red Orchestra 2",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Red Orchestra 2",
+        "exeName": "RedOrchestra2.exe",
+        "childFolder": null,
+        "saveFolder": " %USERPROFILE%\\Documents\\My Games\\RedOrchestra2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "red-alert-2-yuri-s-revenge",
+      "gameName": "Red Alert 2 Yuri's Revenge",
+      "year": 2001,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Red Alert 2 Yuri's Revenge",
+        "exeName": "RedAlert2YurisRevenge.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini2%\\Red Alert 2\\yuri"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "rome-total-war",
+      "gameName": "Rome - Total War",
+      "year": 2004,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Rome - Total War",
+        "exeName": "Rome-TotalWar.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini2%\\Rome - Total War\\saves"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "rome-total-war-barbarian-invasion",
+      "gameName": "Rome - Total War Barbarian Invasion",
+      "year": 2004,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Rome - Total War Barbarian Invasion",
+        "exeName": "Rome-TotalWarBarbarianInvasion.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Rome - Total War\\bi\\saves"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "rome-total-war-alexander",
+      "gameName": "Rome - Total War Alexander",
+      "year": 2006,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Rome - Total War Alexander",
+        "exeName": "Rome-TotalWarAlexander.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\VirtualStore\\Program Files (x86)\\The Creative Assembly\\Rome - Total War\\saves"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dungeon-siege-iii",
+      "gameName": "Dungeon Siege III",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Dungeon Siege III",
+        "exeName": "DungeonSiegeIII.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "mstartr",
+      "gameName": "MstarTR",
+      "year": 2012,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "MstarTR",
+        "exeName": "MstarTR.exe",
+        "childFolder": null,
+        "saveFolder": "http://www.trmstar.com/Hesap/Kayit"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "sanctum-2",
+      "gameName": "Sanctum 2",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Sanctum 2",
+        "exeName": "Sanctum2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\sanctum2\\sanctumgame\\savedata"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "world-rally-championship-3",
+      "gameName": "World Rally Championship 3",
+      "year": 2012,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "World Rally Championship 3",
+        "exeName": "WorldRallyChampionship3.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Milestone\\WRC3"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "subway-surfers",
+      "gameName": "Subway Surfers",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Subway Surfers",
+        "exeName": "SubwaySurfers.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "resident-evil-revelations",
+      "gameName": "Resident Evil Revelations",
+      "year": 2011,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Resident Evil Revelations",
+        "exeName": "ResidentEvilRevelations.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\FLT\\Steam\\222480"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "medal-of-honor-airborne",
+      "gameName": "Medal of Honor Airborne",
+      "year": 2007,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Medal of Honor Airborne",
+        "exeName": "MedalofHonorAirborne.exe",
+        "childFolder": null,
+        "saveFolder": " %USERPROFILE%\\Documents\\EA Games\\Medal of Honor Airborne(tm)\\Saved"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "mars-war-logs",
+      "gameName": "Mars War Logs",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Mars War Logs",
+        "exeName": "MarsWarLogs.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Mars War Logs"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "kaneandlynch-2-dog-days",
+      "gameName": "KaneandLynch 2 Dog Days",
+      "year": 2010,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "KaneandLynch 2 Dog Days",
+        "exeName": "KaneandLynch2DogDays.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\Square Enix\\Kane & Lynch 2 – Dog Days"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "grid-2",
+      "gameName": "GRID 2",
+      "year": 2008,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "GRID 2",
+        "exeName": "GRID2.exe",
+        "childFolder": null,
+        "saveFolder": "C:\\ProgramData\\Steam\\RLD!\\44350\\storage"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "god-mode",
+      "gameName": "God Mode",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "God Mode",
+        "exeName": "GodMode.exe",
+        "childFolder": null,
+        "saveFolder": "%LOCALAPPDATA%\\SKIDROW\\227480\\Storage"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "remember-me",
+      "gameName": "Remember Me",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Remember Me",
+        "exeName": "RememberMe.exe",
+        "childFolder": null,
+        "saveFolder": "%LOCALAPPDATA%\\FLT\\STEAM\\228300"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "far-cry-3-blood-dragon",
+      "gameName": "Far Cry 3 Blood Dragon",
+      "year": 2007,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Far Cry 3 Blood Dragon",
+        "exeName": "FarCry3BloodDragon.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\orbit\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "don-t-starve",
+      "gameName": "Don't Starve",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Don't Starve",
+        "exeName": "DontStarve.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\appdata\\local\\flt\\steam\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "wargame-airland-battle",
+      "gameName": "Wargame AirLand Battle",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Wargame AirLand Battle",
+        "exeName": "WargameAirLandBattle.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games\\eugensystems\\wargame2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "fast-and-furious-showdown",
+      "gameName": "Fast and Furious Showdown",
+      "year": 2009,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Fast and Furious Showdown",
+        "exeName": "FastandFuriousShowdown.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Activision\\Fast & Furious™ - Showdown"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-saboteur",
+      "gameName": "The Saboteur",
+      "year": 2009,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "The Saboteur",
+        "exeName": "TheSaboteur.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "spider-man-3",
+      "gameName": "Spider-Man 3",
+      "year": 2007,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Spider-Man 3",
+        "exeName": "Spider-Man3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\activision\\Spider-Man 3\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "silent-hunter-5",
+      "gameName": "Silent Hunter 5",
+      "year": 2010,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Silent Hunter 5",
+        "exeName": "SilentHunter5.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\SH5"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "nhl-09",
+      "gameName": "NHL 09",
+      "year": 2008,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "NHL 09",
+        "exeName": "NHL09.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\NHL09"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "need-for-speed-prostreet",
+      "gameName": "Need for Speed ProStreet",
+      "year": 2010,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Need for Speed ProStreet",
+        "exeName": "NeedforSpeedProStreet.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\NFS ProStreet"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "i-am-alive",
+      "gameName": "I Am Alive",
+      "year": 2012,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "I Am Alive",
+        "exeName": "IAmAlive.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\Documents\\IAmAlive\\Save"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "brothers-in-arms-hell-s-highway",
+      "gameName": "Brothers in Arms - Hell's Highway",
+      "year": 2007,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Brothers in Arms - Hell's Highway",
+        "exeName": "BrothersinArms-HellsHighway.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "james-bond-007-blood-stone",
+      "gameName": "James Bond 007 - Blood Stone",
+      "year": 2010,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "James Bond 007 - Blood Stone",
+        "exeName": "JamesBond007-BloodStone.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\bizarre creations\\blood stone"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-hunter",
+      "gameName": "The Hunter",
+      "year": 2011,
+      "genre": "Avcılık",
+      "paths": {
+        "folderName": "The Hunter",
+        "exeName": "TheHunter.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\theHunter"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "race-driver-3",
+      "gameName": "Race Driver 3",
+      "year": 2006,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Race Driver 3",
+        "exeName": "RaceDriver3.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Race Driver 3\\savedata"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "ihf-handball-challenge-12",
+      "gameName": "IHF Handball Challenge 12",
+      "year": 2011,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "IHF Handball Challenge 12",
+        "exeName": "IHFHandballChallenge12.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "singularity",
+      "gameName": "Singularity",
+      "year": 2010,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Singularity",
+        "exeName": "Singularity.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\singularity\\rvgame\\savedata"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "chivalry-medieval-warfare",
+      "gameName": "Chivalry Medieval Warfare",
+      "year": 2012,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Chivalry Medieval Warfare",
+        "exeName": "ChivalryMedievalWarfare.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "resident-evil-5",
+      "gameName": "Resident Evil 5",
+      "year": 2012,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Resident Evil 5",
+        "exeName": "ResidentEvil5.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\capcom\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-walking-dead-survival-instinct",
+      "gameName": "The Walking Dead Survival Instinct",
+      "year": 2013,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "The Walking Dead Survival Instinct",
+        "exeName": "TheWalkingDeadSurvivalInstinct.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\RELOADED\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "just-cause-2",
+      "gameName": "Just Cause 2",
+      "year": 2009,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Just Cause 2",
+        "exeName": "JustCause2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\square enix\\just cause 2\\saves"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-juarez-gunslinger",
+      "gameName": "Call of Juarez Gunslinger",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Call of Juarez Gunslinger",
+        "exeName": "CallofJuarezGunslinger.exe",
+        "childFolder": null,
+        "saveFolder": "%AllUsersProfile%\\RELOADED\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "urban-freestyle-soccer",
+      "gameName": "Urban Freestyle Soccer",
+      "year": 2009,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "Urban Freestyle Soccer",
+        "exeName": "UrbanFreestyleSoccer.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\Urban Freestyle Soccer"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "lfs",
+      "gameName": "LFS",
+      "year": 2004,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "LFS",
+        "exeName": "LFS.exe",
+        "childFolder": null,
+        "saveFolder": "D:\\Belgelerim\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "deadpool",
+      "gameName": "Deadpool",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Deadpool",
+        "exeName": "Deadpool.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\Deadpool"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "supper-splatters",
+      "gameName": "Supper Splatters",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Supper Splatters",
+        "exeName": "SupperSplatters.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini2%\\Supper Splatters\\Profile\\Saves\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-punisher",
+      "gameName": "The Punisher",
+      "year": 2009,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "The Punisher",
+        "exeName": "ThePunisher.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI2%\\The Punisher\\profiles"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "ninja-blade",
+      "gameName": "Ninja Blade",
+      "year": 2009,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Ninja Blade",
+        "exeName": "NinjaBlade.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\ninja blade"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "stranglehold",
+      "gameName": "Stranglehold",
+      "year": 2007,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Stranglehold",
+        "exeName": "Stranglehold.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\Midway\\Stranglehold"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-darkness-ii",
+      "gameName": "The Darkness II",
+      "year": 2011,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "The Darkness II",
+        "exeName": "TheDarknessII.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\DarknessII"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "warp",
+      "gameName": "WARP",
+      "year": 2012,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "WARP",
+        "exeName": "WARP.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\My Games\\Warp\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "darkest-of-days",
+      "gameName": "Darkest of Days",
+      "year": 2009,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Darkest of Days",
+        "exeName": "DarkestofDays.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini%\\Darkest of Days\\base\\save"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "world-of-goo",
+      "gameName": "World of Goo",
+      "year": 2008,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "World of Goo",
+        "exeName": "WorldofGoo.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\2DBoy"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "second-sight",
+      "gameName": "Second Sight",
+      "year": 2005,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Second Sight",
+        "exeName": "SecondSight.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini2%\\Second Sight\\profiles\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "heroes-over-europe",
+      "gameName": "Heroes over Europe",
+      "year": 2009,
+      "genre": "Simülasyon",
+      "paths": {
+        "folderName": "Heroes over Europe",
+        "exeName": "HeroesoverEurope.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Ubisoft\\Heroes Over Europe"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dark-void",
+      "gameName": "DARK VOID",
+      "year": 2009,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "DARK VOID",
+        "exeName": "DARKVOID.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\my games\\airtight\\Dark Void\\SavedGames"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "battlestations-pacific",
+      "gameName": "Battlestations Pacific",
+      "year": 2009,
+      "genre": "Simülasyon",
+      "paths": {
+        "folderName": "Battlestations Pacific",
+        "exeName": "BattlestationsPacific.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Battlestations-Pacific"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "batman-arkham-asylum",
+      "gameName": "Batman Arkham Asylum",
+      "year": 2009,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Batman Arkham Asylum",
+        "exeName": "BatmanArkhamAsylum.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Eidos\\Batman Arkham Asylum\\SaveData"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "angry-birds",
+      "gameName": "Angry Birds",
+      "year": 2012,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Angry Birds",
+        "exeName": "AngryBirds.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Rovio\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "angry-birds-rio",
+      "gameName": "Angry Birds Rio",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Angry Birds Rio",
+        "exeName": "AngryBirdsRio.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Rovio\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "angry-birds-seasons",
+      "gameName": "Angry Birds Seasons",
+      "year": 2012,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Angry Birds Seasons",
+        "exeName": "AngryBirdsSeasons.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Rovio\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "angry-birds-space",
+      "gameName": "Angry Birds Space",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Angry Birds Space",
+        "exeName": "AngryBirdsSpace.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Rovio\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "angry-birds-star-wars",
+      "gameName": "Angry Birds Star Wars",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Angry Birds Star Wars",
+        "exeName": "AngryBirdsStarWars.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Rovio\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "transformers-revenge-of-the-fallen",
+      "gameName": "Transformers - Revenge of the Fallen",
+      "year": 2009,
+      "genre": "3. Şahıs Nişancı",
+      "paths": {
+        "folderName": "Transformers - Revenge of the Fallen",
+        "exeName": "Transformers-RevengeoftheFallen.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\activision\\transformers2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dark",
+      "gameName": "DARK",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "DARK",
+        "exeName": "DARK.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\FLT\\Steam\\225360"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "mortal-kombat-complete-edition",
+      "gameName": "Mortal Kombat Complete Edition",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Mortal Kombat Complete Edition",
+        "exeName": "MortalKombatCompleteEdition.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\FLT\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "motogp13",
+      "gameName": "MotoGP13",
+      "year": 2013,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "MotoGP13",
+        "exeName": "MotoGP13.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Milestone\\MotoGP13"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "worms-clan-wars",
+      "gameName": "Worms Clan Wars",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Worms Clan Wars",
+        "exeName": "WormsClanWars.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "narco-terror",
+      "gameName": "Narco Terror",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Narco Terror",
+        "exeName": "NarcoTerror.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\ZootFly"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "nascar-2013",
+      "gameName": "NASCAR 2013",
+      "year": 2013,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "NASCAR 2013",
+        "exeName": "NASCAR2013.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\SKIDROW\\225220"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "rise-of-the-triad",
+      "gameName": "Rise of the Triad",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Rise of the Triad",
+        "exeName": "RiseoftheTriad.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\Documents\\My Games\\Rise Of The Triad\\ROTTGame\\SaveData"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "medieval-defenders",
+      "gameName": "Medieval Defenders",
+      "year": 2012,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Medieval Defenders",
+        "exeName": "MedievalDefenders.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\8Floor"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "pes-14",
+      "gameName": "PES 14",
+      "year": 2013,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "PES 14",
+        "exeName": "pes14.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\KONAMI\\Pro Evolution Soccer 2014"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "huntsman-the-orphanage",
+      "gameName": "Huntsman The Orphanage",
+      "year": 2013,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Huntsman The Orphanage",
+        "exeName": "HUNTSMANTHEORPHANAGE.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "winning-eleven-7",
+      "gameName": "Winning Eleven 7",
+      "year": 2004,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "Winning Eleven 7",
+        "exeName": "WinningEleven7.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini2%\\Winning Eleven 7\\save"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "pes-2009",
+      "gameName": "PES 2009",
+      "year": 2008,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "PES 2009",
+        "exeName": "PES2009.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\KONAMI\\Pro Evolution Soccer 2009"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "pes-2008",
+      "gameName": "PES 2008",
+      "year": 2007,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "PES 2008",
+        "exeName": "PES2008.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\KONAMI\\Pro Evolution Soccer 2008"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "oblivion-elder-scrolls",
+      "gameName": "Oblivion Elder Scrolls",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Oblivion Elder Scrolls",
+        "exeName": "OblivionElderScrolls.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\my games\\oblivion"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "winning-eleven-9",
+      "gameName": "Winning Eleven 9",
+      "year": 2005,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "Winning Eleven 9",
+        "exeName": "WinningEleven9.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\KONAMI\\Winning Eleven 9"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "total-war-rome-ii",
+      "gameName": "Total War ROME II",
+      "year": 2013,
+      "genre": "Strateji",
+      "paths": {
+        "folderName": "Total War ROME II",
+        "exeName": "TotalWarROMEII.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\The Creative Assembly\\Rome2\\save_games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "arma-3",
+      "gameName": "ARMA 3",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "ARMA 3",
+        "exeName": "ARMA3.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Arma 3"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-king-of-fighters-xiii",
+      "gameName": "The King Of Fighters XIII",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "The King Of Fighters XIII",
+        "exeName": "TheKingOfFightersXIII.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\Steam"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "disney-planes",
+      "gameName": "Disney Planes",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Disney Planes",
+        "exeName": "DisneyPlanes.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\Disney Interactive Studios\\Disney Planes"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "payday-2",
+      "gameName": "PAYDAY 2",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "PAYDAY 2",
+        "exeName": "PAYDAY2.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\PAYDAY 2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "iron-soul",
+      "gameName": "Iron Soul",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Iron Soul",
+        "exeName": "IronSoul.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "formula-truck-2013",
+      "gameName": "Formula Truck 2013",
+      "year": 2013,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Formula Truck 2013",
+        "exeName": "FormulaTruck2013.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Formula Truck 2013\\UserData"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "saints-row-iv",
+      "gameName": "Saints Row IV",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Saints Row IV",
+        "exeName": "SaintsRowIV.exe",
+        "childFolder": null,
+        "saveFolder": "%PROGRAMDATA%\\Steam\\RLD!\\206420"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "hoyle-puzzle-and-board-games-2013",
+      "gameName": "Hoyle Puzzle and Board Games 2013",
+      "year": 2011,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Hoyle Puzzle and Board Games 2013",
+        "exeName": "HoylePuzzleandBoardGames2013.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Hoyle Puzzle and Board Games 2012"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "rayman-legends",
+      "gameName": "Rayman Legends",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Rayman Legends",
+        "exeName": "RaymanLegends.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\rayman legends"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "cok-zor-bir-oyun",
+      "gameName": "Cok Zor Bir Oyun",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Cok Zor Bir Oyun",
+        "exeName": "CokZorBirOyun.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "outlast",
+      "gameName": "Outlast",
+      "year": 2013,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Outlast",
+        "exeName": "Outlast.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\Steam\\RLD!\\238320"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "ninja-kaplumbagalar",
+      "gameName": "Ninja Kaplumbagalar",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Ninja Kaplumbagalar",
+        "exeName": "NinjaKaplumbagalar.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini2%\\Ninja Kaplumbagalar\\saves"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "fire-and-forget",
+      "gameName": "Fire and Forget",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Fire and Forget",
+        "exeName": "FireandForget.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "fifa-14",
+      "gameName": "FIFA 14",
+      "year": 2013,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "FIFA 14",
+        "exeName": "FIFA14.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\FIFA 14"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-bureau",
+      "gameName": "The Bureau",
+      "year": 2013,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "The Bureau",
+        "exeName": "TheBureau.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\Steam"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "mark-of-the-ninja",
+      "gameName": "Mark of the Ninja",
+      "year": 2012,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Mark of the Ninja",
+        "exeName": "MarkoftheNinja.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\SKIDROW\\214560"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "splinter-cell-blacklist",
+      "gameName": "Splinter Cell Blacklist",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Splinter Cell Blacklist",
+        "exeName": "SplinterCellBlacklist.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Ubisoft\\Blacklist"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "alien-rage",
+      "gameName": "Alien Rage",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Alien Rage",
+        "exeName": "AlienRage.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "painkiller-hell-and-damnation",
+      "gameName": "Painkiller Hell and Damnation",
+      "year": 2012,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Painkiller Hell and Damnation",
+        "exeName": "PainkillerHellandDamnation.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\My Games\\Painkiller Hell and Damnation"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "football-manager-2013",
+      "gameName": "Football Manager 2013",
+      "year": 2013,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "Football Manager 2013",
+        "exeName": "FootballManager2013.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Sports Interactive\\Football Manager 2013"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "fifa-2005",
+      "gameName": "FIFA 2005",
+      "year": 2004,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "FIFA 2005",
+        "exeName": "FIFA2005.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Belgelerim"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "chicken-invaders-4",
+      "gameName": "Chicken Invaders 4",
+      "year": 2010,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Chicken Invaders 4",
+        "exeName": "ChickenInvaders4.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "roller-coaster-tycoon-3-platinum",
+      "gameName": "Roller Coaster Tycoon 3 Platinum",
+      "year": 2006,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Roller Coaster Tycoon 3 Platinum",
+        "exeName": "RollerCoasterTycoon3Platinum.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "serious-sam-3-bfe-deluxe-edition",
+      "gameName": "Serious Sam 3 BFE Deluxe Edition",
+      "year": 2012,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Serious Sam 3 BFE Deluxe Edition",
+        "exeName": "SeriousSam3BFEDeluxeEdition.exe",
+        "childFolder": null,
+        "saveFolder": "%LOCALAPPDATA%\\SKIDROW\\41070"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "football-manager-2014",
+      "gameName": "Football Manager 2014",
+      "year": 2013,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "Football Manager 2014",
+        "exeName": "FootballManager2014.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Sports Interactive\\Football Manager 2014"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "battlefield-4",
+      "gameName": "Battlefield 4",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Battlefield 4",
+        "exeName": "Battlefield4.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Battlefield 4"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-duty-ghosts",
+      "gameName": "Call of Duty Ghosts",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Duty Ghosts",
+        "exeName": "CallofDutyGhosts.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini%\\Call of Duty Ghosts\\players2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "silent-hill-homecoming",
+      "gameName": "Silent Hill Homecoming",
+      "year": 2009,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Silent Hill Homecoming",
+        "exeName": "SilentHillHomecoming.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\Documents\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "world-rally-championship-4",
+      "gameName": "World Rally Championship 4",
+      "year": 2013,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "World Rally Championship 4",
+        "exeName": "WorldRallyChampionship4.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Milestone\\WRC4"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "s4league",
+      "gameName": "S4League",
+      "year": 2013,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "S4League",
+        "exeName": "S4League.exe",
+        "childFolder": null,
+        "saveFolder": "http://s4league.web.tr/"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "state-of-decay",
+      "gameName": "State of Decay",
+      "year": 2013,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "State of Decay",
+        "exeName": "StateofDecay.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "zor-bir-oyun",
+      "gameName": "Zor Bir Oyun",
+      "year": 2009,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Zor Bir Oyun",
+        "exeName": "ZorBirOyun.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini2%\\Zor bir oyun"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dota-2",
+      "gameName": "Dota 2",
+      "year": 2013,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "Dota 2",
+        "exeName": "Dota2.exe",
+        "childFolder": null,
+        "saveFolder": "https://store.steampowered.com/join/?"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "race-the-sun",
+      "gameName": "Race The Sun",
+      "year": 2013,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Race The Sun",
+        "exeName": "RaceTheSun.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "goley",
+      "gameName": "Goley",
+      "year": 2013,
+      "genre": "Online Oyun",
+      "paths": {
+        "folderName": "Goley",
+        "exeName": "Goley.exe",
+        "childFolder": null,
+        "saveFolder": "http://www.joygame.com/land/goley/"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "assassin-s-creed-iv",
+      "gameName": "Assassin's Creed IV",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Assassin's Creed IV",
+        "exeName": "AssassinsCreedIV.exe",
+        "childFolder": null,
+        "saveFolder": "%OYUNDIZINI%\\Assassin's Creed IV\\save3dmgames"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "prison-break-the-conspiracy",
+      "gameName": "Prison Break The Conspiracy",
+      "year": 2010,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Prison Break The Conspiracy",
+        "exeName": "PrisonBreakTheConspiracy.exe",
+        "childFolder": null,
+        "saveFolder": "%appdata%\\Prisonbreak"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "shadow-warrior",
+      "gameName": "Shadow Warrior",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Shadow Warrior",
+        "exeName": "ShadowWarrior.exe",
+        "childFolder": null,
+        "saveFolder": " %USERPROFILE%\\Documents\\Shadow Warrior\\profiles"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "legends-of-aethereus",
+      "gameName": "Legends of Aethereus",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Legends of Aethereus",
+        "exeName": "LegendsofAethereus.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "battlefield-bad-company-2",
+      "gameName": "Battlefield Bad Company 2",
+      "year": 2010,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Battlefield Bad Company 2",
+        "exeName": "BattlefieldBadCompany2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\bfbc2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-walking-dead",
+      "gameName": "The Walking Dead",
+      "year": 2013,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "The Walking Dead",
+        "exeName": "TheWalkingDead.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\telltale games\\the walking dead"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "need-for-speed-rivals",
+      "gameName": "Need for Speed Rivals",
+      "year": 2013,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Need for Speed Rivals",
+        "exeName": "NeedforSpeedRivals.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\Documents\\Ghost Games\\Need for Speed(TM) Rivals"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "counter-strike-source-2013",
+      "gameName": "Counter Strike Source 2013",
+      "year": 2013,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Counter Strike Source 2013",
+        "exeName": "CounterStrikeSource2013.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "halo",
+      "gameName": "Halo",
+      "year": 2003,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Halo",
+        "exeName": "Halo.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "killing-floor",
+      "gameName": "Killing Floor",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Killing Floor",
+        "exeName": "KillingFloor.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-godfather-ii",
+      "gameName": "The Godfather II",
+      "year": 2009,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "The Godfather II",
+        "exeName": "TheGodfatherII.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\EA Games"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "race-driver-grid",
+      "gameName": "Race Driver Grid",
+      "year": 2007,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Race Driver Grid",
+        "exeName": "RaceDriverGrid.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\codemasters\\grid"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "injustice-gods-among-us",
+      "gameName": "Injustice Gods Among Us",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Injustice Gods Among Us",
+        "exeName": "InjusticeGodsAmongUs.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini%\\Injustice Gods Among Us\\Profile\\Saves"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "cabela-s-african-adventures",
+      "gameName": "Cabela's African Adventures",
+      "year": 2013,
+      "genre": "Avcılık",
+      "paths": {
+        "folderName": "Cabela's African Adventures",
+        "exeName": "CabelasAfricanAdventures.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "air-conflicts-vietnam",
+      "gameName": "Air Conflicts Vietnam",
+      "year": 2013,
+      "genre": "Simülasyon",
+      "paths": {
+        "folderName": "Air Conflicts Vietnam",
+        "exeName": "AirConflictsVietnam.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "enslaved-odyssey-to-the-west",
+      "gameName": "Enslaved - Odyssey to the West",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Enslaved - Odyssey to the West",
+        "exeName": "Enslaved-OdysseytotheWest.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini%\\Enslaved - Odyssey to the West\\MonkeyGame\\SaveData"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "fifa-10",
+      "gameName": "FIFA 10",
+      "year": 2009,
+      "genre": "Spor",
+      "paths": {
+        "folderName": "FIFA 10",
+        "exeName": "FIFA10.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\documents\\FIFA 10"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "blood-knights",
+      "gameName": "Blood Knights",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Blood Knights",
+        "exeName": "BloodKnights.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "next-car-game",
+      "gameName": "Next Car Game",
+      "year": 2013,
+      "genre": "Yarış",
+      "paths": {
+        "folderName": "Next Car Game",
+        "exeName": "NextCarGame.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "assassins-creed-liberation-hd",
+      "gameName": "Assassins Creed Liberation HD",
+      "year": 2014,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Assassins Creed Liberation HD",
+        "exeName": "AssassinsCreedLiberationHD.exe",
+        "childFolder": null,
+        "saveFolder": "%oyundizini%\\Assassins Creed Liberation HD\\save3dmgames"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "the-walking-dead-2",
+      "gameName": "The Walking Dead 2",
+      "year": 2013,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "The Walking Dead 2",
+        "exeName": "TheWalkingDead2.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\documents\\Telltale Games\\The Walking Dead 2"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "icytower1-5",
+      "gameName": "icytower1.5",
+      "year": 2011,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "icytower1.5",
+        "exeName": "icytower1.5.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "zuma-deluxe",
+      "gameName": "Zuma Deluxe",
+      "year": 2011,
+      "genre": "Eğlence",
+      "paths": {
+        "folderName": "Zuma Deluxe",
+        "exeName": "ZumaDeluxe.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "dementium-ii-hd",
+      "gameName": "Dementium II HD",
+      "year": 2013,
+      "genre": "Korku",
+      "paths": {
+        "folderName": "Dementium II HD",
+        "exeName": "DementiumIIHD.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\Steam"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "deadfall-adventures",
+      "gameName": "Deadfall Adventures",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Deadfall Adventures",
+        "exeName": "DeadfallAdventures.exe",
+        "childFolder": null,
+        "saveFolder": "%ALLUSERSPROFILE%\\Steam"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "metal-gear-rising-revengeance",
+      "gameName": "Metal Gear Rising Revengeance",
+      "year": 2014,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Metal Gear Rising Revengeance",
+        "exeName": "MetalGearRisingRevengeance.exe",
+        "childFolder": null,
+        "saveFolder": "%USERPROFILE%\\Documents\\MGR\\SaveData\\"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-duty-2-multiplayer",
+      "gameName": "Call of Duty 2 Multiplayer",
+      "year": 2008,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Duty 2 Multiplayer",
+        "exeName": "CallofDuty2Multiplayer.exe",
+        "childFolder": null,
+        "saveFolder": "nul"
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "call-of-duty-4-modern-warfare-multiplayer",
+      "gameName": "Call of Duty 4 - Modern Warfare Multiplayer",
+      "year": 2007,
+      "genre": "Birinci Şahıs Nişancı",
+      "paths": {
+        "folderName": "Call of Duty 4 - Modern Warfare Multiplayer",
+        "exeName": "CallofDuty4-ModernWarfareMultiplayer.exe",
+        "childFolder": null,
+        "saveFolder": null
+      },
+      "metadata": {
+        "description": null,
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      }
+    },
+    {
+      "id": "gta-v",
+      "gameName": "Grand Theft Auto V",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "GTA 5",
+        "exeName": "re7.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\Rockstar Games\\GTA V\\Profiles"
+      },
+      "metadata": {
+        "description": "Açık dünya aksiyon-macera oyunu",
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      },
+      "tags": ["Açık Dünya", "Çok Oyunculu", "Aksiyon"]
+    },
+    {
+      "id": "hitman-3",
+      "gameName": "Hitman 3",
+      "year": 2021,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Hitman 3",
+        "exeName": "Launcher.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\AppData\\Local\\IO Interactive\\Hitman3"
+      },
+      "metadata": {
+        "description": "Gizlilik ve strateji tabanlı aksiyon oyunu",
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      },
+      "tags": ["Gizlilik", "Strateji", "Suikast"]
+    },
+    {
+      "id": "red-dead-redemption-2",
+      "gameName": "Red Dead Redemption 2",
+      "year": 2018,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Red Dead Redemption 2",
+        "exeName": "Launcher.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\Rockstar Games\\Red Dead Redemption 2\\Profiles"
+      },
+      "metadata": {
+        "description": "Vahşi Batı temalı açık dünya aksiyon-macera oyunu",
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      },
+      "tags": ["Açık Dünya", "Western", "Hikaye"]
+    },
+    {
+      "id": "spider-man-miles-morales",
+      "gameName": "Spider-Man: Miles Morales",
+      "year": 2020,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Spider Man Miles Morales",
+        "exeName": "MilesMorales.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Saved Games\\Insomniac Games\\Spider-Man Miles Morales"
+      },
+      "metadata": {
+        "description": "Miles Morales'in Spider-Man olarak maceraları",
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      },
+      "tags": ["Süper Kahraman", "Açık Dünya", "Aksiyon"]
+    },
+    {
+      "id": "tekken-8",
+      "gameName": "TEKKEN 8",
+      "year": 2024,
+      "genre": "Dövüş",
+      "paths": {
+        "folderName": "TEKKEN",
+        "exeName": "TEKKEN 8.exe",
+        "childFolder": null,
+        "saveFolder": "%localappdata%\\TEKKEN 8\\Saved"
+      },
+      "metadata": {
+        "description": "Efsanevi dövüş oyunu serisi",
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      },
+      "tags": ["Dövüş", "Çok Oyunculu", "Rekabetçi"]
+    }
+  ]
+}
