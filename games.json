@@ -7224,6 +7224,116 @@
         }
       },
       "tags": ["Dövüş", "Çok Oyunculu", "Rekabetçi"]
+    },
+    {
+      "id": "gta-v-2025",
+      "gameName": "Grand Theft Auto V",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Gta5_2025",
+        "exeName": "PLACEHOLDER.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\Rockstar Games\\GTA V\\Profiles"
+      },
+      "metadata": {
+        "description": "Açık dünya aksiyon-macera oyunu (2025 Repack)",
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      },
+      "tags": ["Açık Dünya", "Çok Oyunculu", "Aksiyon"]
+    },
+    {
+      "id": "gta-v-standard",
+      "gameName": "Grand Theft Auto V",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "GTA V",
+        "exeName": "PLACEHOLDER.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\Rockstar Games\\GTA V\\Profiles"
+      },
+      "metadata": {
+        "description": "Açık dünya aksiyon-macera oyunu",
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      },
+      "tags": ["Açık Dünya", "Çok Oyunculu", "Aksiyon"]
+    },
+    {
+      "id": "gta-v-redux",
+      "gameName": "Grand Theft Auto V",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "Gta5-Redux",
+        "exeName": "PLACEHOLDER.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\Rockstar Games\\GTA V\\Profiles"
+      },
+      "metadata": {
+        "description": "Açık dünya aksiyon-macera oyunu (Redux Mod)",
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      },
+      "tags": ["Açık Dünya", "Çok Oyunculu", "Aksiyon", "Modlu"]
+    },
+    {
+      "id": "gta-v-kafe-mod",
+      "gameName": "Grand Theft Auto V",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "GTAV Kafe Mod Premium",
+        "exeName": "PLACEHOLDER.exe",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\Rockstar Games\\GTA V\\Profiles"
+      },
+      "metadata": {
+        "description": "Açık dünya aksiyon-macera oyunu (Kafe Mod Premium)",
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      },
+      "tags": ["Açık Dünya", "Çok Oyunculu", "Aksiyon", "Modlu"]
+    },
+    {
+      "id": "gta-v-ucgenmod",
+      "gameName": "Grand Theft Auto V",
+      "year": 2013,
+      "genre": "Aksiyon",
+      "paths": {
+        "folderName": "GTA V UcgenMod",
+        "exeName": "GTAVLauncher.exe",
+        "launchScript": "bim.bat",
+        "childFolder": null,
+        "saveFolder": "%userprofile%\\Documents\\Rockstar Games\\GTA V\\Profiles"
+      },
+      "metadata": {
+        "description": "Açık dünya aksiyon-macera oyunu (UcgenMod)",
+        "images": {
+          "background": null,
+          "cover": null,
+          "igdb": null
+        }
+      },
+      "tags": ["Açık Dünya", "Çok Oyunculu", "Aksiyon", "Modlu"],
+      "launchConfig": {
+        "useLaunchScript": true,
+        "scriptType": "batch"
+      }
     }
   ]
 }
